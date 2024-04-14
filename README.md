@@ -2,7 +2,8 @@
 ![04-Blog-Tumor-Cell-S](https://user-images.githubusercontent.com/111365771/222963183-1b677b56-822a-4b05-8b73-3d48a0c13db3.jpg)
 
 
-Sure, here's an introduction, explanation, and conclusion for your lung cancer classification project:
+This project aims to classify lung cancer types based on histopathological images. The goal is to develop a deep learning model that can accurately predict the type of lung cancer present in a given image.
+
 
 ### Introduction
 
