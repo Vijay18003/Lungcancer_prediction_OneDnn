@@ -1,4 +1,4 @@
-#### Lungcancer_prediction_OneDnn
+# Lungcancer_prediction_OneDnn
 ![04-Blog-Tumor-Cell-S](https://user-images.githubusercontent.com/111365771/222963183-1b677b56-822a-4b05-8b73-3d48a0c13db3.jpg)
 
 
