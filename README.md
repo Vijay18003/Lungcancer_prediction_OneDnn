@@ -1,7 +1,6 @@
 # Lungcancer_prediction_OneDnn
 ![04-Blog-Tumor-Cell-S](https://user-images.githubusercontent.com/111365771/222963183-1b677b56-822a-4b05-8b73-3d48a0c13db3.jpg)
 
-# Lung Cancer Classification Project!
 This project aims to classify lung cancer types based on histopathological images. The goal is to develop a deep learning model that can accurately predict the type of lung cancer present in a given image.
 
 
@@ -23,7 +22,6 @@ For the model architecture, we employ the EfficientNetB2 architecture as a base 
 During the training process, we utilize the Adamax optimizer with a categorical cross-entropy loss function. Data augmentation techniques such as horizontal flipping are applied to increase the diversity of training samples and improve the model's generalization ability. Additionally, a custom learning rate scheduler is implemented to adjust the learning rate based on training and validation metrics, optimizing the model's performance.
 
 After training, the model is evaluated on a separate test set to assess its ability to accurately classify lung cancer types. Evaluation metrics such as accuracy, precision, recall, and F1-score are calculated to measure the model's performance. Furthermore, a confusion matrix is generated to visualize the model's performance across different classes, providing insights into its strengths and weaknesses.
-
 
 
 ## Dataset
