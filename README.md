@@ -1,7 +1,7 @@
 # Lungcancer_prediction_OneDnn
 ![04-Blog-Tumor-Cell-S](https://user-images.githubusercontent.com/111365771/222963183-1b677b56-822a-4b05-8b73-3d48a0c13db3.jpg)
 
-
+# Lung Cancer Classification Project!
 This project aims to classify lung cancer types based on histopathological images. The goal is to develop a deep learning model that can accurately predict the type of lung cancer present in a given image.
 
 
@@ -24,9 +24,7 @@ During the training process, we utilize the Adamax optimizer with a categorical 
 
 After training, the model is evaluated on a separate test set to assess its ability to accurately classify lung cancer types. Evaluation metrics such as accuracy, precision, recall, and F1-score are calculated to measure the model's performance. Furthermore, a confusion matrix is generated to visualize the model's performance across different classes, providing insights into its strengths and weaknesses.
 
-# Lung Cancer Classification Project
 
-This project aims to classify lung cancer types based on histopathological images. The goal is to develop a deep learning model that can accurately predict the type of lung cancer present in a given image.
 
 ## Dataset
 
@@ -48,7 +46,7 @@ The trained model is evaluated on a separate test set to assess its performance.
 
 ## Results
 
-The model achieves an accuracy of XX% on the test set, demonstrating its effectiveness in classifying lung cancer types. The classification report provides detailed metrics for each class, highlighting the model's strengths and weaknesses.
+The model achieves an accuracy of 90% on the test set, demonstrating its effectiveness in classifying lung cancer types. The classification report provides detailed metrics for each class, highlighting the model's strengths and weaknesses.
 
 ## Usage
 
@@ -74,4 +72,3 @@ Moving forward, further refinement and optimization of the model could lead to e
 Overall, this project represents a significant step towards leveraging artificial intelligence in the fight against lung cancer, ultimately contributing to improved patient outcomes and quality of life.
 
 ---
-Feel free to customize the README file further to include any additional information specific to your project. Let me know if you need any further assistance!
